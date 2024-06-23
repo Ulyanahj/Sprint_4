@@ -1,4 +1,4 @@
-package main.sprint_4;
+package sprint_4.helpers;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 public class DropDownList {
     public WebDriver driver;
 
-    DropDownList(WebDriver driver) {
+    public DropDownList(WebDriver driver) {
         this.driver = driver;
     }
 

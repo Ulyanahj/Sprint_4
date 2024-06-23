@@ -1,4 +1,4 @@
-package main.sprint_4;
+package sprint_4.helpers;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
